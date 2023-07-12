@@ -95,7 +95,14 @@ This walkthrough outlines the install configuration of Microsoft Active Director
 - Login to the Domain Controller (Remote Desktop) and verify Client-1 shows up in Active Directory Users and Computers (ADUC) inside the “Computers” container on the root of the domain
 
 <img width="1439" alt="Join Domain 1" src="https://github.com/montrequonwheeler/active-directory-installation/assets/127397594/f6defb2f-e4b2-413b-acc8-cb037a6abb3c">
+
+- Open start -> System -> Rename this PC (advanced)
+- The reason we recived this error message is because it is requesting our created domain from a public ip address instead of a private one (dc-1)
+
 <img width="1439" alt="Join Domain 2" src="https://github.com/montrequonwheeler/active-directory-installation/assets/127397594/aeb1eb15-7a71-457d-962f-b1b077d5981d">
+
+- Find Network Interface: client-1653_z1 and click client-1653_z1 highlighted in blue
+
 <img width="1439" alt="Join Domain 3" src="https://github.com/montrequonwheeler/active-directory-installation/assets/127397594/dbd5bb9f-e433-4d2b-ad4e-fa1e18c3333e">
 <img width="1439" alt="Join Domain 4" src="https://github.com/montrequonwheeler/active-directory-installation/assets/127397594/02ba7a00-d380-45bb-873e-13a0dca96f22">
 <img width="1439" alt="Join Domain 5" src="https://github.com/montrequonwheeler/active-directory-installation/assets/127397594/5a26baac-cc98-4d44-ba88-cd17209f5b7a">
