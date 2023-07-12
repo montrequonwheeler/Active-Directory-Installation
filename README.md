@@ -138,8 +138,9 @@ attempt to log into Client-1 with one of the accounts (take note of the password
 <img width="1439" alt="Create Additional Users 8" src="https://github.com/montrequonwheeler/active-directory-installation/assets/127397594/5111abcf-34ce-493d-b287-b74b24c90efc">
 <img width="1439" alt="Create Additional Users 9" src="https://github.com/montrequonwheeler/active-directory-installation/assets/127397594/4eda7b02-e535-4799-be64-bc6bced900fb">
 
+<h2>Make sure to clean up by deleting all resource groups to avoid ongoing costs</h2>
+
 - Finish
-- Make sure to clean up by deleting all resource groups to avoid ongoing costs
 
 <img width="1440" alt="Clean up" src="https://github.com/montrequonwheeler/active-directory-installation/assets/127397594/8ec9d160-b5c6-4b67-9091-93ac639d2cbf">
 
