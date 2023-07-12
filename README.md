@@ -10,7 +10,7 @@ This walkthrough outlines the install configuration of Microsoft Active Director
 - Remote Desktop (Microsoft Remote Access in the App Store for MAC users)
 - Active Directory Domain Services
 
-<h2>Operating Systems Used </h2>
+<h2>Operating Systems Used</h2>
 
 - Windows Server 2022</b> (21H2)
 - Windows 10</b> (21H2)
