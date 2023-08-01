@@ -1,7 +1,7 @@
 </p>
 
 <h1>Active Directory: Installation</h1>
-This walkthrough outlines the install configuration of Microsoft Active Directory Domain Services. In short, we'll set up the enviroment in Azure, use a few commands inside of command land for familiarity, run powershell, and more. There will be more labs created later to help build intution with DNS and file permissions. For now we will focus on AD and the common uses of it. 
+This walkthrough outlines the install configuration of Microsoft Active Directory Domain Services. In short, we'll set up the enviroment in Azure, using Virtual Machines to install an on premises verision to perform more administrative tasks. Thosse tasks will include join a client to domain, user account creation with powershell, file and network sharing and more.
 <br />
 
 <h2>Environments and Technologies Used</h2>
